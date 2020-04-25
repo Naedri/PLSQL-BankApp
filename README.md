@@ -16,7 +16,7 @@ Ce projet porte sur la mise en exploitation de la partie serveur d’une applica
 
 Le modèle conceptuel implanté est le suivant :
 
-![Modèle conceptuel](./Modèle/MCD.png)
+![Modèle conceptuel](./Modèle/MCD.PNG)
 
 Cette application contient :
 
