@@ -1,4 +1,4 @@
-# PL/SQL - AppBank - Gestion de comptes bancaires
+# BDD-AppBank
 
 IUT Paris Descartes - 2020 - Enseignant : FESSY Jérôme.
 
