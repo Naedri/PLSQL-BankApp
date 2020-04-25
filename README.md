@@ -1,8 +1,8 @@
-# plSQL- Gestion de comptes bancaires
+# PL/SQL - AppBank - Gestion de comptes bancaires
 
 IUT Paris Descartes - 2020 - Enseignant : FESSY Jérôme.
 
-## Développement en plSQL d'une application bancaire de gestion de comptes. 
+## Développement en PL/SQL d'une application bancaire de gestion de comptes. 
 
 Dans le cadre du cours de Base de Données, Jérôme Fessy a proposé de développer une application pour la *gestion de de comptes*. 
 
